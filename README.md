@@ -1,6 +1,5 @@
-# NTC MINI PROJECT
 
-## The Design and Implementation of a Symmetric Encryption Algorithm Based on DES
+# The Design and Implementation of a Symmetric Encryption Algorithm Based on DES
 
 <hr/>
 
@@ -29,10 +28,10 @@ The project was implemented in parts: <br/>
 
 
 ### Results
-![Tabular Result](../Images/Table.png?raw=true "Comparison in times taken for the algorithms")<br/>
+![Tabular Result](https://github.com/jaysshinde/Modifications-to-DES/blob/master/Images/Table.png)<br/>
 Comparison in times taken for the algorithms
 
-![Graphical Result](../Images/Graph.png?raw=true "Graph Comparison")<br/>
+![Graphical Result](https://github.com/jaysshinde/Modifications-to-DES/blob/master/Images/Graph.png)<br/>
 Overall comparison in performance
 
 ### Conclusion
