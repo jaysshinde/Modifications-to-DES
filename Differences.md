@@ -15,5 +15,5 @@ with each other and exchange their keys at each round. This leads to an operatio
 to that of DES but gives an effective key length of 112 bits thus giving more security.
 
 The following image describes this in detail:<br/>
-![Algo](../Images/desnew2.png?raw=true "DES new algorithm")
+![Algo](https://github.com/jaysshinde/Modifications-to-DES/blob/master/Images/desnew2.png)
 
